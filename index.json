@@ -1,7 +1,10 @@
 {
-    "title": "MCPDict",
     "author": "Aoyama (omnisch@outlook.com)",
     "description": "Middle Chinese Pronunciation Dictionary",
+    "downloadUrl": "https://github.com/Omnisch/mcpdict_for_yomitan/releases/download/alpha_1.0/mcpdict_for_yomitan_a1.0.zip",
     "format": 3,
-    "revision": "aoyama_mcpdict"
+    "indexUrl": "https://github.com/Omnisch/mcpdict_for_yomitan/releases/latest/download/mcpdict_index.json",
+    "isUpdatable": true,
+    "revision": "aoyama_mcpdict_alpha1.0",
+    "title": "MCPDict"
 }
