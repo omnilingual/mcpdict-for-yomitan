@@ -16,4 +16,6 @@ A Phonology Dictionary for Yomitan, including pronunciations of Han Characters i
 
 etc.
 
+![Sample](images/result_of_ngiox.png)
+
 Resources come from [MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict).
