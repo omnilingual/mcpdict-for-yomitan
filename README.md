@@ -18,4 +18,4 @@ etc.
 
 ![Sample](images/result_of_ngiox.png)
 
-Resources come from [MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict).
+Database comes from [MaigoAkisame/MCPDict](https://github.com/MaigoAkisame/MCPDict).
