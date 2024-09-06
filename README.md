@@ -1,6 +1,6 @@
 # 漢字古今中外讀音查詢 MCPDict for Yomitan
 
-A Phonology Dictionary for Yomitan, including pronunciations of Han Characters in:
+A Pronunciation Dictionary for Yomitan, including pronunciations of Han Characters in:
 
 - Chinese, Middle
 - Chinese, Madarin

@@ -1,6 +1,6 @@
 {
     "author": "Aoyama (omnisch@outlook.com)",
-    "description": "MCPDict, A Phonology Dictionary in CJKV",
+    "description": "MCPDict, A Pronunciation Dictionary in CJKV",
     "downloadUrl": "https://github.com/omnilingual/mcpdict-for-yomitan/releases/download/alpha_1.5/mcpdict_for_yomitan_a1.5.zip",
     "format": 3,
     "indexUrl": "https://github.com/omnilingual/mcpdict-for-yomitan/releases/latest/download/mcpdict_index.json",
